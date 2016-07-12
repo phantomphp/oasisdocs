@@ -1,0 +1,10 @@
+site_name: Oasis Documentation
+theme: readthedocs
+pages:
+  - Home: index.md
+  - Technical: technical.md
+  - Admin:
+      - 'Sections': 'admin/sections.md'
+      - 'Content': 'admin/content.md'
+      - 'Announcements': 'admin/announcements.md'
+      - 'Contacts': 'admin/contacts.md'
